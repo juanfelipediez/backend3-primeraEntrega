@@ -1,0 +1,17 @@
+[31mfatal[39m: Cast to ObjectId failed for value "672867adf765d7e169f46" (type string) at path "_id" for model "Product"
+[33merror[39m: This search does not return any results
+[33merror[39m: POST /api/products/ - CLIENT ERROR
+[33merror[39m: POST /api/products/ - CLIENT ERROR
+[33merror[39m: POST /api/products/ - CLIENT ERROR
+[33merror[39m: GET /api/products/66cffb8223c3ac85120a0415 - THIS SEARCH DOES NOT RETURN ANY RESULTS
+[33merror[39m: POST /api/products/ - CLIENT ERROR
+[33merror[39m: Client Error
+[33merror[39m: Client Error
+[31mfatal[39m: errors is not defined
+[31mfatal[39m: CostumeError is not defined
+[31mfatal[39m: CostumeError is not defined
+[31mfatal[39m: CostumeError is not defined
+[33merror[39m: Client Error
+[31mfatal[39m: Cast to ObjectId failed for value "672867adf765d7e1697f406j" (type string) at path "_id" for model "Product"
+[33merror[39m: This search does not return any results
+[31mfatal[39m: fake is not defined

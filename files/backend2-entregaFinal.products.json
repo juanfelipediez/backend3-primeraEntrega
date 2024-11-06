@@ -1,0 +1,301 @@
+[
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0415"
+    },
+    "title": "Hamburger",
+    "description": "Cheese hamburger with tomato and lettuce",
+    "code": "hmb",
+    "price": 6800,
+    "status": true,
+    "stock": 5,
+    "category": "sandwiches",
+    "thumbnails": "./images/img1"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0416"
+    },
+    "title": "Cheeseburger",
+    "description": "Hamburger with double cheese",
+    "code": "chsbrg",
+    "price": 7000,
+    "status": true,
+    "stock": 10,
+    "category": "sandwiches",
+    "thumbnails": "./images/img2"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0417"
+    },
+    "title": "Hot Dog",
+    "description": "Hot dog with ketchup and mustard",
+    "code": "htdg",
+    "price": 3500,
+    "status": true,
+    "stock": 20,
+    "category": "sandwiches",
+    "thumbnails": "./images/img3"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0418"
+    },
+    "title": "Pizza Margherita",
+    "description": "Classic pizza with tomato and mozzarella",
+    "code": "pzmg",
+    "price": 12000,
+    "status": true,
+    "stock": 15,
+    "category": "pizzas",
+    "thumbnails": "./images/img4"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0419"
+    },
+    "title": "Pepperoni Pizza",
+    "description": "Pizza with pepperoni slices",
+    "code": "pzppr",
+    "price": 14000,
+    "status": true,
+    "stock": 10,
+    "category": "pizzas",
+    "thumbnails": "./images/img5"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a041a"
+    },
+    "title": "Vegetarian Pizza",
+    "description": "Pizza with assorted vegetables",
+    "code": "pzveg",
+    "price": 13000,
+    "status": true,
+    "stock": 12,
+    "category": "pizzas",
+    "thumbnails": "./images/img6"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a041b"
+    },
+    "title": "Caesar Salad",
+    "description": "Salad with romaine lettuce, croutons, and Caesar dressing",
+    "code": "csld",
+    "price": 8000,
+    "status": true,
+    "stock": 8,
+    "category": "salads",
+    "thumbnails": "./images/img7"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a041c"
+    },
+    "title": "Greek Salad",
+    "description": "Salad with cucumber, tomato, olives, and feta cheese",
+    "code": "grksld",
+    "price": 7500,
+    "status": true,
+    "stock": 7,
+    "category": "salads",
+    "thumbnails": "./images/img8"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a041d"
+    },
+    "title": "Tuna Salad",
+    "description": "Salad with tuna, lettuce, and boiled eggs",
+    "code": "tnsld",
+    "price": 8500,
+    "status": true,
+    "stock": 5,
+    "category": "salads",
+    "thumbnails": "./images/img9"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a041e"
+    },
+    "title": "Spaghetti Bolognese",
+    "description": "Pasta with meat sauce",
+    "code": "spblg",
+    "price": 11000,
+    "status": true,
+    "stock": 10,
+    "category": "pasta",
+    "thumbnails": "./images/img10"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a041f"
+    },
+    "title": "Fettuccine Alfredo",
+    "description": "Pasta with creamy Alfredo sauce",
+    "code": "ftalfr",
+    "price": 11500,
+    "status": true,
+    "stock": 8,
+    "category": "pasta",
+    "thumbnails": "./images/img11"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0420"
+    },
+    "title": "Penne Arrabiata",
+    "description": "Pasta with spicy tomato sauce",
+    "code": "pnarr",
+    "price": 10500,
+    "status": true,
+    "stock": 12,
+    "category": "pasta",
+    "thumbnails": "./images/img12"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0421"
+    },
+    "title": "Chicken Wings",
+    "description": "Spicy chicken wings",
+    "code": "ckwngs",
+    "price": 9000,
+    "status": true,
+    "stock": 20,
+    "category": "appetizers",
+    "thumbnails": "./images/img13"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0422"
+    },
+    "title": "Mozzarella Sticks",
+    "description": "Fried mozzarella cheese sticks",
+    "code": "mzstks",
+    "price": 8000,
+    "status": true,
+    "stock": 15,
+    "category": "appetizers",
+    "thumbnails": "./images/img14"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0423"
+    },
+    "title": "Onion Rings",
+    "description": "Crispy onion rings",
+    "code": "onrngs",
+    "price": 6000,
+    "status": true,
+    "stock": 25,
+    "category": "appetizers",
+    "thumbnails": "./images/img15"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0424"
+    },
+    "title": "Chocolate Cake",
+    "description": "Rich chocolate cake",
+    "code": "chocake",
+    "price": 7000,
+    "status": true,
+    "stock": 10,
+    "category": "desserts",
+    "thumbnails": "./images/img16"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0425"
+    },
+    "title": "Cheesecake",
+    "description": "Classic New York cheesecake",
+    "code": "chescake",
+    "price": 7500,
+    "status": true,
+    "stock": 8,
+    "category": "desserts",
+    "thumbnails": "./images/img17"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0426"
+    },
+    "title": "Tiramisu",
+    "description": "Italian coffee-flavored dessert",
+    "code": "tiramisu",
+    "price": 8500,
+    "status": true,
+    "stock": 7,
+    "category": "desserts",
+    "thumbnails": "./images/img18"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0427"
+    },
+    "title": "Brownie",
+    "description": "Chocolate brownie",
+    "code": "brwnie",
+    "price": 5000,
+    "status": true,
+    "stock": 15,
+    "category": "desserts",
+    "thumbnails": "./images/img19"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0428"
+    },
+    "title": "Ice Cream",
+    "description": "Vanilla ice cream scoop",
+    "code": "icecrm",
+    "price": 3000,
+    "status": true,
+    "stock": 20,
+    "category": "desserts",
+    "thumbnails": "./images/img20"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a0429"
+    },
+    "title": "Milkshake",
+    "description": "Chocolate milkshake",
+    "code": "mlkshk",
+    "price": 3500,
+    "status": true,
+    "stock": 18,
+    "category": "drinks",
+    "thumbnails": "./images/img21"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a042a"
+    },
+    "title": "Lemonade",
+    "description": "Freshly squeezed lemonade",
+    "code": "lemn",
+    "price": 4000,
+    "status": true,
+    "stock": 25,
+    "category": "drinks",
+    "thumbnails": "./images/img22"
+  },
+  {
+    "_id": {
+      "$oid": "66cffb8223c3ac85120a042b"
+    },
+    "title": "Soda",
+    "description": "Carbonated soft drink",
+    "code": "soda",
+    "price": 2500,
+    "status": true,
+    "stock": 30,
+    "category": "drinks",
+    "thumbnails": "./images/img23"
+  }
+]
